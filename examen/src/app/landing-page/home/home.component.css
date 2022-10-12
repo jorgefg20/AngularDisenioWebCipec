@@ -7,19 +7,27 @@ img{
     margin: 0 auto;
     width: 80%;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(2, 2, 2, 0.2);
     border-radius: 20px;
     padding: 20px 40px;
     
 }
+.VLG{
+    color: rgb(57, 55, 55); ;
+}
 h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color:rgb(79, 77, 77);
     margin-top: 50px;
     margin-bottom: 10px;
+}
+h5{
+    color:white
 }
 hr{
     width: 8%;
     height: 3px;
-    color: white;
+    color: rgb(57, 55, 55);
     margin: 0 auto 30px ;    
 }
 
